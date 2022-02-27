@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discoverie of treason against the King, and Parliament: together with the whole kingdome: being the true copie of a letter found about a priest lately apprehended at Clarkenwell in the county of Middlesex. Wherein many of their trecherous and hellish plots against the Kings Majesty and this whole state are fully discovered, with their practises against the Parliament, and the Protestant religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81542</idno>
+            <idno type="STC">Wing D1661</idno>
+            <idno type="STC">Thomason E124_30</idno>
+            <idno type="STC">ESTC R5747</idno>
+            <idno type="EEBO-CITATION">99872893</idno>
+            <idno type="PROQUEST">99872893</idno>
+            <idno type="VID">125340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125340)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discoverie of treason against the King, and Parliament: together with the whole kingdome: being the true copie of a letter found about a priest lately apprehended at Clarkenwell in the county of Middlesex. Wherein many of their trecherous and hellish plots against the Kings Majesty and this whole state are fully discovered, with their practises against the Parliament, and the Protestant religion.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Octob. 29. Printed by R. A. and A. C. for G. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125340:1" rendition="simple:additions"/>
+            <p>A Diſcoverie of Treaſon AGAINST THE KING, <hi>AND</hi> PARLIAMENT:</p>
+            <p>Together with the whole KINGDOME:</p>
+            <p>
+               <hi>BEING</hi> The true Copie of a Letter found about a Prieſt lately apprehended at <hi>Clarkenwell</hi> in the County of Middleſex.</p>
+            <p>WHEREIN <hi>Many of their trecherous and helliſh Plots againſt the Kings Majeſty and this whole State are fully diſcovered, with their practiſes againſt the Parliament, and the Proteſtant Religion.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Octob.</hi> 29. Printed by <hi>R.A.</hi> and <hi>A.C.</hi> for <hi>G. Smith.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125340:2"/>
+            <pb n="1" facs="tcp:125340:2"/>
+            <head>The Copie of a Letter found about a Prieſt lately apprehended at <hi>Clarkenwell</hi> in the County of MIDDLESEX.</head>
+            <opener>
+               <salute>FAther <hi>Rector,</hi>
+               </salute>
+            </opener>
+            <p>Let not the damp of a<g ref="char:EOLhyphen"/>ſtoniſhment ſeize on your moſt deare and zealous ſoule concerning the pro<g ref="char:EOLhyphen"/>ceedings of this Parliament, for you muſt know the Counſell is ingaged to aſsiſt the King by way of Prerogative in caſe the Par<g ref="char:EOLhyphen"/>liament will reſemble the Pelican, which takes pleaſure to dig out with her owne beak her own bowels.</p>
+            <p>You may remember how the late famous and mortall Stateſman, the Conde Gunda<g ref="char:EOLhyphen"/>more, ſaid, King JAMES rockt him aſleepe with a fancy and ſweet ſound of peace to keep np the Spaniſh treaty. Likewiſe we were bound to ſome eminent Stateſment of our own countrey, to gaine time in procu<g ref="char:EOLhyphen"/>ring the advantagious ceſſation of armes in the Palatinate, and in the North of the Spa<g ref="char:EOLhyphen"/>niſh
+<pb n="2" facs="tcp:125340:3"/>Nation in vilifyihg the Hollanders, demonſtrating to the King, that the States were moſt ungratefull to his Predeceſſors, that the States were more obnoxious then the Turks, and perpetually hindred his loy<g ref="char:EOLhyphen"/>all Subjects, and had uſurped the regality of the narrow ſeas, in fiſhing upon the Eng<g ref="char:EOLhyphen"/>liſh coaſts. This great man had but one principall meanes to further his great de<g ref="char:EOLhyphen"/>ſignes, which was, that none but the Puri<g ref="char:EOLhyphen"/>tan faction, which plotted nothing but an anarchy, and his confuſion, were averſe to the moſt happy union. We ſteere on the ſame courſe, and make great uſe of an anar<g ref="char:EOLhyphen"/>chicall election, and have prejudicated the Great One, that none but the Kings ene<g ref="char:EOLhyphen"/>mies and his are choſen of the Parliament: and that the Parliament avowes, that they will begin with the leaſt, and will not give over till they have extirpated him and his poſterity. On the other ſide, the ſincere parties that are to be admired for their in<g ref="char:EOLhyphen"/>defatigable induſtry, inceſſantly forment re<g ref="char:EOLhyphen"/>venge and jealouſie in moſt of the Parliament-men, eſpecially they work upon the
+<pb n="3" facs="tcp:125340:3"/>pride and vain-glory of ſuch as have beene impriſoned, poſſeſsing them, that they are the only martyrs &amp; Worthies of the coun<g ref="char:EOLhyphen"/>treys. London is a much diſtempered as Florence; for the Companies are at odds, and the Common Councell have oppoſed their Magiſtrates againſt the old cuſtome, which hath bred a great deal of heart-bur<g ref="char:EOLhyphen"/>ning in the city, ſo that twice a day we can divulge what we liſt in Pauls, and upon the Exchange, you ſhall ſee the ſame ſword that hath wounded us, being drawne upon the ſame wound with an oyl that we have, ſhal make us whole. And this ſhalbe done in Parliament, in charming the wiſeſt and temperateſt: with the violent ſort we take a ſtrange courſe, by working upon their paſsions, and inebriating their fancies with probabilities and preſidents, that favourites may wreſtle with Parliaments for a time, but at laſt a Parliament will overthrow their backs: we incourage them with all the wits we have, to fall upon ſome great perſons heere Ais Majeſty, and perſwade them that now is the time or never, the
+<pb n="4" facs="tcp:125340:4"/>King being in ſuch neceſsity, inſomuch that we aſſure our ſelves, God hath forſaken and infatuated them, that they ſhall not on<g ref="char:EOLhyphen"/>ly ſtrike againſt the ſame rock but ſink and rake in the bottome of the ſea of deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>We have now many ſtrings to our bow, and have ſtrongly fortified our faction, and we have added two bulwarks more. For when K. JAMES was very violent againſt Arminianiſme, and interrupted with his peſtilent wit and deep learning our ſtrong deſignes in Holland, and was a great friend <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that old rebellious heretick the Prince of Orange; now we have planted the ſo<g ref="char:EOLhyphen"/>veraigne drug of Arminianiſme, which we hope will purge the Proteſtants from their hereſie, and will flouriſh and bear fruit in due ſeaſon.</p>
+            <p>The foundation to build up the bulwark muſt be mutation; our mutation will cauſe reluctation, which will ſerve for as many violent diſeaſes as the Stone, the Gowt, Tooth-ache, ſpeedy deſtruction, or perpe<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all inſufferable anguiſh of the body,
+<pb n="5" facs="tcp:125340:4"/>which is worſe then death it ſelf.</p>
+            <p>There are other matters in hand of con<g ref="char:EOLhyphen"/>ſequence which we take to conſideration &amp; tender care, which is the ſtate of the Pu<g ref="char:EOLhyphen"/>ritans, for they are impudent ſubtill people.</p>
+            <p>I cannot but laugh to ſee how ſome of our coat have counterfeited themſelves, you would ſcarce know them if you ſaw them. It is admirable, how is ſpeech, apparell and geſture they act the Puritans. They abuſed our ſacred Patron Ignatius in jeſt, but we will make them ſmart for it in earneſt.</p>
+            <p>I hope you will excuſe my merry digreſ<g ref="char:EOLhyphen"/>ſion: for I confeſſe to you, I am at this time tranſported with joy to fee how happily all inſtruments and meanes, aſwell great as ſmall, do co-operate to our purpoſes.</p>
+            <p>But to return again to our main fabrick: In the firſt place we take into conſideration the King honour &amp; preſent neceſsity, and we ſhew how the King may free himſelfe from his wardſhip as Lewis the 11. did, and for his great ſplendor and luſtre, he may raiſe vaſt ſummes, and not be beholden to his ſubjects, which is by way of impoſition
+<pb n="6" facs="tcp:125340:5"/>and Exciſe: we inſtance the Low-Coun<g ref="char:EOLhyphen"/>treyes, and ſhew what a maſſe of money they raiſe to pay their armies both by ſea and land meerly out of Exciſe.</p>
+            <p>Then our Church Catholikes proceed to ſhew the means how to ſettle this Exciſe which muſt be by an Army of horſe and foot; for we have made it ſure: they ſhall be Forraigners, and Germans, vvho vvill eat up the Kings revenues, and ſpoile the countreys vvhereſoever they come, though they be vvell paid; vvhat havock vvill they make then vvhen they have no pay. If the countrey be too hard for the ſouldiers, they muſt conſequently outrage, vvhich is e<g ref="char:EOLhyphen"/>qually advantagious to us.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
